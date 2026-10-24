@@ -1,3 +1,8 @@
+DOCKERHUB REPO LINK: https://hub.docker.com/r/huntingwizard/601_module8/tags
+
+GITHUB REPO LINK: https://github.com/huntingwizard/IS601_Assignment8
+
+
 # 📦 Project Setup
 
 ---
